@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hirematics</string>
+    <string name="labelFirstName">First Name</string>
+    <string name="labelLastName">Last Name</string>
+    <string name="labelEmail">Email</string>
+    <string name="labelCompanyName">Company Name</string>
+    <string name="labelDomain">Domain</string>
+    <string name="labelCreateAccount">Create Account</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_login">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="labelSignInButton">Sign In</string>
+    <string name="labelSignUpButton">Sign Up</string>
+    <string name="logoDesc">Hirematics Logo</string>
+    <string name="labelForgotYourPasswordButton">Forgot your password?</string>
+     <string name="labelPackagesAndListing">Plans And Pricing</string>
+    
+
+</resources>
